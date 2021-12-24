@@ -1,0 +1,33 @@
+{
+  "name": "go-fullstack-exercice-crud",
+  "version": "1.0.0",
+  "description": "résolution de l'exercice CRUD donné dans le cours 'passez au fullstack avec nodeJs, express et mongoDB'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Martinien/go-fullstack-exercice-crud.git"
+  },
+  "keywords": [
+    "backend",
+    "exercice-CRUD",
+    "node",
+    "express",
+    "mongoDB",
+    "mongoose",
+    "javascript",
+    "fullstack"
+  ],
+  "author": "King Martinien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-Martinien/go-fullstack-exercice-crud/issues"
+  },
+  "homepage": "https://github.com/Dev-Martinien/go-fullstack-exercice-crud#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.3"
+  }
+}
